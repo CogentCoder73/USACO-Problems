@@ -1,21 +1,9 @@
-/*
-ID: vishman
-TASK: shell
-LANG: C++
-*/
-/*
-//#pragma GCC optimize ("O3")
-//#pragma GCC target ("sse4")
-
-#define _CRT_SECURE_NO_WARNINGS
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <set>
 #include <map>
-//#include <unordered_map>
 #include <cmath>
 #include <cstring>
 #include <bitset>
