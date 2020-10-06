@@ -1,14 +1,3 @@
-/*
-ID: mathboy6
-TASK: test
-LANG: C++
-*/
-
-//#pragma GCC optimize ("O3")
-//#pragma GCC target ("sse4")
-/*
-#define _CRT_SECURE_NO_WARNINGS
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
@@ -133,4 +122,4 @@ int main() {
     }
     cout << cur << endl;
     return 0;
-}*/
+}
