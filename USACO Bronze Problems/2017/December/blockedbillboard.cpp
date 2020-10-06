@@ -1,14 +1,3 @@
-/*
-ID: mathboy6
-TASK: test
-LANG: C++
-*/
-
-//#pragma GCC optimize ("O3")
-//#pragma GCC target ("sse4")
-/*
-#define _CRT_SECURE_NO_WARNINGS
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
@@ -45,4 +34,4 @@ int main(){
     cin >> b.x1 >> b.y1 >> b.x2 >> b.y2;
     cin >> t.x1 >> t.y1 >> t.x2 >> t.y2;
     cout << a.area()+b.area()-intersect(a,t)-intersect(b,t) << endl;
-}*/
+}
